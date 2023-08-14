@@ -21,11 +21,7 @@
 
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>
-<img width="40" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
-<img width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
 <img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-
-
 
 
 
@@ -35,7 +31,6 @@
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 <img width="40" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
 
-<img width="40" src="https://www.vippng.com/png/full/395-3953813_java-logo-transparent-background.png"/>
 
 
 
